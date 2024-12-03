@@ -43,4 +43,13 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="country_name">Country Name</string>
+    <string name="emoji">Emoji</string>
+    <string name="continent">Continent</string>
+    <string name="vn">VN</string>
+    <string name="vi_t_nam">Việt Nam</string>
+    <string name="ha_noi">Ha Noi</string>
+    <string name="vn_lower">vn</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="vnd">VND</string>
 </resources>

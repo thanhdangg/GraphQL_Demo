@@ -1,9 +1,12 @@
 query Countries {
     countries {
-        code
         name
+        native
+        capital
         emoji
-        continent {
+        currency
+        languages {
+            code
             name
         }
     }
